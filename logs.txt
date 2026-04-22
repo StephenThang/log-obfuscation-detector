@@ -1,0 +1,15 @@
+192.168.1.1 GET /index.html 200 OK
+cmd=aGVsbG8gV29ybGQgdGhpcyBpcyBiYXNlNjQ=
+192.168.1.45 GET /home.html 200 OK
+GET /%2F%2F%65%76%69%6C 404 NOT FOUND
+connection attempt from 0x7f000001
+192.168.1.78 POST /login.html 200 OK
+payload=SGVsbG8gdGhpcyBpcyBhIHN1c3BpY2lvdXMgcGF5bG9hZA==
+192.168.1.90 GET /about.html 200 OK
+GET /%61%64%6D%69%6E 403 FORBIDDEN
+reverse shell attempt from 0xC0A80101
+192.168.1.12 GET /contact.html 200 OK
+exec=aGVsbG8gdGhpcyBpcyBhbm90aGVyIHN1c3BpY2lvdXMgY29tbWFuZA==
+host unreachable 0xAC100101
+192.168.1.33 GET /dashboard.html 200 OK
+GET /%2e%2e%2f%2e%2e%2f%65%74%63%2f%70%61%73%73%77%64 401 UNAUTHORIZED
